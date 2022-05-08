@@ -1,0 +1,1 @@
+<h2>To use the fine tuned sentence transformer we've used to experiment with here, go <a href="https://drive.google.com/drive/folders/1j1zFcpnNi1Iv671rcvVzgg-UgyGb_7c0?usp=sharing">here</a>, and download the entire folder. Unzip it in the same folder as the one with the file add path to the loading line in the main.py. </h2>
